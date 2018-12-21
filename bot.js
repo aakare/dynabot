@@ -49,4 +49,4 @@ client.on('message', msg => {
     }
  });
 
-client.login('NTIzMzg5ODkyMTg5ODgwMzIw.Dv1xvg.stoWwBQHeFupZ2hf7Hw7Ij0si7A');
+client.login('youthot');
